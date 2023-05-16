@@ -3,4 +3,5 @@ This is the code for the interface between a inverter which communicates on modb
 
 Business Problem:
 IOT gateway for inverters monitoring a solar energy power plant. 
+
 Consulted with the key stakeholders, documented requirements and came up with multiple iterations of the product to be developed within the monetary and temporal constraints of the company.
